@@ -1,0 +1,5 @@
+package fizzbuzz
+
+object FizzBuzzGameKtTest{
+
+}
